@@ -9,11 +9,11 @@ This code has been realised in the context of a class for introduction to Python
 
 ## Required Packages:
 
-tkinter
-numpy
-Pillow
-customtkinter 4.6.3 (not tested for upper versions)
-svg.path (6.2)
-screeninfo (0.8.1)
+- tkinter
+- numpy
+- Pillow
+- customtkinter 4.6.3 (not tested for upper versions)
+- svg.path (6.2)
+- screeninfo (0.8.1)
 
 

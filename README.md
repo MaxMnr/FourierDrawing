@@ -4,8 +4,7 @@ Delve into the depths of Fourier Analysis interactively. This application empowe
 This code has been realised in the context of a class of Python for Physicists.
 
 
-
-https://github.com/MaxMnr/FourierDrawing/assets/88986446/82341625-a1e8-451a-a582-a663fe57bf7c
+![Design sans titre](https://github.com/MaxMnr/FourierDrawing/assets/88986446/97cccfa8-6418-4f7f-a64e-a3b8287587a8)
 
 
 

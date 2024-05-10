@@ -1,9 +1,5 @@
 # FourierDrawing
-Delve into the depths of Fourier Analysis interactively with finesse. This application empowers users to sketch any shape and witness the signal's reconstruction through FFT, presented in a uniquely captivating manner.
-
-This code epitomizes the culmination of a Python introduction class tailored for physicists, offering an immersive journey into the realm of Fourier transformations.
-
-
+Delve into the depths of Fourier Analysis interactively with finesse. This application empowers users to sketch any shape and witness the signal's reconstruction through FFT, presented in a uniquely captivating manner. The use also has the possibility of importing a svg file and using Bezier Curves the path can be reconstructed before applying Fourier Analysis.
 
 This code has been realised in the context of a class for introduction to Python for Physicists.
 

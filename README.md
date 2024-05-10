@@ -7,7 +7,7 @@ This code epitomizes the culmination of a Python introduction class tailored for
 
 This code has been realised in the context of a class for introduction to Python for Physicists.
 
-Required Packages:
+## Required Packages:
 
 tkinter
 numpy
